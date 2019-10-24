@@ -1,1 +1,3 @@
-public class test{}
+public class test{
+	private int age;
+}
